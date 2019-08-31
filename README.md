@@ -49,5 +49,7 @@ CALayer is not aware of the responder chain (the mechanism that iOS uses to prop
 @end
 ```
 
+![Screen Shot 2019-08-31 at 12 49 52 PM](https://user-images.githubusercontent.com/24994818/64067421-d869a280-cbed-11e9-8767-87c802818fb8.png)
+
 
 
