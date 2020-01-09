@@ -6,7 +6,7 @@ Layers, like views, are rectangular objects that can be arranged into a hierarch
 
 CALayer is not aware of the responder chain (the mechanism that iOS uses to propagate touch events through the view hierarchy) and so cannot respond to events, although it does provide methods to help determine whether a particular touch point is within the bounds of a layer.
 
-![ios-layer-bitmap-custom-drawing](https://user-images.githubusercontent.com/24994818/64067043-262edc80-cbe7-11e9-8350-205a9c14863f.png)
+![IMG_0043](https://user-images.githubusercontent.com/24994818/72082226-71f43f80-32c5-11ea-98eb-04831a3762ab.PNG)
 
 ``` objective-c
 //
