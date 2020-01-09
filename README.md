@@ -8,6 +8,8 @@ CALayer is not aware of the responder chain (the mechanism that iOS uses to prop
 
 ![IMG_0043](https://user-images.githubusercontent.com/24994818/72082226-71f43f80-32c5-11ea-98eb-04831a3762ab.PNG)
 
+![Screen Shot 2020-01-09 at 10 53 05](https://user-images.githubusercontent.com/24994818/72087533-390c9880-32ce-11ea-9a5d-58b79d86e42a.png)
+
 ``` objective-c
 //
 //  ViewController.m
